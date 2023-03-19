@@ -1,4 +1,3 @@
-
-<img src="animated.svg" style="width: 100%;" alt="one more test">
+### Nice to meet you, I'm Seb 👋
 
 <a href="https://app.daily.dev/Seb0"><img src="https://github.com/Seb0/Seb0/blob/main/devcard.svg" width="400" alt="Seb0's Dev Card"/></a>
